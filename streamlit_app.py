@@ -36,7 +36,7 @@ def get_counts(parent_conns):
 
 # Streamlit app main function
 def main():
-    st.title("Traffic Monitoring System")
+    st.title("Smart Traffic Surveillance")
     st.write("Upload videos for traffic analysis and monitor vehicle counts.")
 
     # Step 1: User selects the number of cameras
